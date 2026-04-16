@@ -1,12 +1,10 @@
-# Dependencias
 node_modules/
 
-# Variables de entorno (¡AQUÍ ESTÁN TUS CONTRASEÑAS!)
 .env
 
-# Archivos compilados
+
 dist/
 
-# Imágenes subidas por usuarios
+
 public/images/*
 !public/images/Placeholder.png
